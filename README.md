@@ -9,4 +9,5 @@ MATLAB scripts for four lab tasks covering discrete-time signal manipulation, co
 - **Task 4 (`task4_fourier_transform/`):** Defines piecewise signals `x(t)`, `y(t)`, `w(t)`, and `z(t)` (`Task4_1.m`–`Task4_4.m`) and computes their numerical Fourier transforms over $\omega \in [-2\pi, 2\pi]$.
 
 ## Running
-Open any script in MATLAB and run it directly (`Task3.m` will prompt for a Student ID in the Command Window).
+Open any script in MATLAB and run it directly
+(`Task3.m` will prompt for a Student ID in the Command Window).
